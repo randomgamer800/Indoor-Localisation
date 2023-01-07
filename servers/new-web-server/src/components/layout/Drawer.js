@@ -99,7 +99,7 @@ class PersistentDrawerLeft extends Component {
                         <MenuIcon />
                         </IconButton>
                         <Typography component={Link} to='/' variant="h6" color="inherit">
-                            Device Server
+                            Device Serverlllllllllll
                         </Typography>
                         {/* <MapTools /> */}
                     </Toolbar>
